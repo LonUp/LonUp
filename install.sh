@@ -19,7 +19,7 @@ check_needs() {
         PKG_MANAGER="apt-get"
         PKG_UPDATE="$PKG_MANAGER update -y"
         PKG_INSTALL="$PKG_MANAGER install -y"
-        MYSQL_CLIENT_PKG="mysql-client"
+        MYSQL_CLIENT_PKG="default-mysql-client"
     elif command -v dnf &> /dev/null; then
         PKG_MANAGER="dnf"
         PKG_UPDATE="$PKG_MANAGER check-update"
