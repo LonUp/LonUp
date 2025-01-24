@@ -46,16 +46,6 @@
           "videoLink": "https://example.com/v2box-video"
         },
         {
-          "name": "Karing",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/LonUp/LonUp/refs/heads/main/logo.png",
-          "description": "A cross-platform V2Ray client.",
-          "faDescription": "Karing یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "karing://import-remote-profile?url={url}#vpn",
-          "downloadLink": "https://apps.apple.com/us/app/karing/id6472431552",
-          "videoLink": "https://example.com/v2box-video"
-        },
-        {
           "name": "Shadowrocket",
           "price": "2.99",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/shadowrocket.png",
@@ -83,16 +73,6 @@
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
-          "name": "V2box",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2box.png",
-          "description": "A cross-platform V2Ray client.",
-          "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
-          "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
-          "videoLink": "https://example.com/v2box-video"
-        },
-        {
           "name": "Hiddify",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/LonUp/LonUp/refs/heads/main/image.png",
@@ -100,6 +80,43 @@
           "faDescription": "Hiddify یک کلاینت V2Ray چندسکویی است.",
           "configLink": "hiddify://import-remote-profile?url={url}#vpn",
           "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com",
+          "videoLink": "https://example.com/v2box-video"
+        },
+        {
+          "name": "SingBox",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
+          "description": "A rule-based proxy utility client for android.",
+          "faDescription": "SingBox یک ابزار پروکسی قانون‌محور برای android است.",
+          "configLink": "sing-box://import-remote-profile?url={url}#vpn",
+          "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.11.0-beta.24/SFA-1.11.0-beta.24-universal.apk",
+          "videoLink": "https://example.com/shadowrocket-video"
+        },
+        {
+          "name": "ClashMeta",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/LonUp/LonUp/refs/heads/main/com.github.metacubex.clash.meta--210001-icon.png",
+          "description": "A rule-based proxy utility client for android.",
+          "faDescription": "ClashMeta یک ابزار پروکسی قانون‌محور برای android است.",
+          "downloadLink": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.5-alpha-universal-release.apk",
+          "videoLink": "https://example.com/shadowrocket-video"
+        },
+        {
+          "name": "Exclave",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/LonUp/LonUp/refs/heads/main/images12.png",
+          "description": "A rule-based proxy utility client for android.",
+          "faDescription": "Exclave یک ابزار پروکسی قانون‌محور برای android است.",
+          "downloadLink": "https://github.com/dyhkwong/Exclave/releases",
+          "videoLink": "https://example.com/shadowrocket-video"
+        },
+        {
+          "name": "FLclash",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/LonUp/LonUp/refs/heads/main/android-chrome-192x192.png",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "FLclash یک کلاینت V2Ray چندسکویی است.",
+          "downloadLink": "https://github.com/chen08209/FlClash/releases",
           "videoLink": "https://example.com/v2box-video"
         }
       ]
@@ -126,6 +143,34 @@
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
           "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
           "videoLink": "https://example.com/nekoray-video"
+        },
+        {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/LonUp/LonUp/refs/heads/main/image.png",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "Hiddify یک کلاینت V2Ray چندسکویی است.",
+          "configLink": "hiddify://import-remote-profile?url={url}#vpn",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
+          "videoLink": "https://example.com/v2box-video"
+        },
+        {
+          "name": "ClashVerge",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/LonUp/LonUp/refs/heads/main/icon123.png",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "Clash Verge یک کلاینت V2Ray چندسکویی است.",
+          "downloadLink": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.4-alpha_x64_fixed_webview2-setup.exe",
+          "videoLink": "https://example.com/v2box-video"
+        },
+        {
+          "name": "FLclash",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/LonUp/LonUp/refs/heads/main/android-chrome-192x192.png",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "FLclash یک کلاینت V2Ray چندسکویی است.",
+          "downloadLink": "https://github.com/chen08209/FlClash/releases/download/v0.8.72/FlClash-0.8.72-windows-amd64-setup.exe",
+          "videoLink": "https://example.com/v2box-video"
         }
       ]
     },
