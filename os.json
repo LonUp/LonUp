@@ -34,7 +34,7 @@
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
           "videoLink": "https://example.com/v2box-video"
-        }
+        },
         {
           "name": "Hiddify",
           "price": "0",
