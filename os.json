@@ -16,13 +16,13 @@
           "videoLink": "https://example.com/streisand-video"
         },
         {
-          "name": "Shadowrocket",
-          "price": "2.99",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/shadowrocket.png",
+          "name": "SingBox",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
           "description": "A rule-based proxy utility client for iOS.",
           "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
-          "configLink": "https://example.com/shadowrocket-config",
-          "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118",
+          "configLink": "hiddify://import-remote-profile?url={url}#vpn",
+          "downloadLink": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
           "videoLink": "https://example.com/shadowrocket-video"
         },
         {
@@ -33,6 +33,16 @@
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
+          "videoLink": "https://example.com/v2box-video"
+        },
+        {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/LonUp/LonUp/refs/heads/main/image.png",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "Hiddify یک کلاینت V2Ray چندسکویی است.",
+          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
+          "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532",
           "videoLink": "https://example.com/v2box-video"
         }
       ]
@@ -109,7 +119,7 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
           "description": "A client that provides a platform for routing traffic securely.",
           "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
-          "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
+          "configLink": "sing-box://import-remote-profile?url={url}#vpn",
           "downloadLink": "https://github.com/SagerNet/sing-box/releases/latest",
           "videoLink": "https://example.com/sing-box-video"
         }
