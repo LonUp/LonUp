@@ -16,13 +16,13 @@
           "videoLink": "https://example.com/streisand-video"
         },
         {
-          "name": "SingBox",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
+          "name": "Shadowrocket",
+          "price": "2.99",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/shadowrocket.png",
           "description": "A rule-based proxy utility client for iOS.",
           "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
-          "configLink": "hiddify://import-remote-profile?url={url}#vpn",
-          "downloadLink": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
+          "configLink": "https://example.com/shadowrocket-config",
+          "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118",
           "videoLink": "https://example.com/shadowrocket-video"
         },
         {
@@ -109,7 +109,7 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
           "description": "A client that provides a platform for routing traffic securely.",
           "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
-          "configLink": "sing-box://import-remote-profile?url={url}#vpn",
+          "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
           "downloadLink": "https://github.com/SagerNet/sing-box/releases/latest",
           "videoLink": "https://example.com/sing-box-video"
         }
